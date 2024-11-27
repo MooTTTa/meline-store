@@ -1,0 +1,3 @@
+ALTER TABLE clothes
+MODIFY size VARCHAR(255),
+MODIFY price VARCHAR(255);

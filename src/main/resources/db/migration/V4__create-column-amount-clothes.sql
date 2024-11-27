@@ -1,0 +1,2 @@
+ALTER TABLE clothes
+ADD COLUMN amount INT;

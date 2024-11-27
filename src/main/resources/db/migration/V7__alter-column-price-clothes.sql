@@ -1,0 +1,2 @@
+ALTER TABLE clothes
+MODIFY price DOUBLE(10, 2);
